@@ -131,5 +131,5 @@ This app is meant to help with placement preparation. Always confirm job require
 **Saiprasad Godge**  
 Computer Science and Engineering
 
-[GitHub](YOUR_GITHUB_PROFILE_URL) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/SAI-GODGE) · [LinkedIn](https://www.linkedin.com/in/saiprasad-godge-a4098727a/)
 
