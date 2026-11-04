@@ -6,7 +6,7 @@
 
 An AI-powered assistant that helps students prepare for campus recruitment through placement guidance, job-description analysis, eligibility checks, and personalized preparation plans.
 
-[**CampusPath-AI**](https://campuspath-ai.streamlit.app/) · [**GitHub**](https://github.com/SAI-GODGE/CampusPath-AI)
+[**CampusPath-AI**](https://campuspath-ai.streamlit.app/)                  ·                   [**GitHub**](https://github.com/SAI-GODGE/CampusPath-AI)
 
 </div>
 
