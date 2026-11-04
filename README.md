@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # CampusPath AI
@@ -6,7 +7,7 @@
 
 An AI-powered assistant that helps students prepare for campus recruitment through placement guidance, job-description analysis, eligibility checks, and personalized preparation plans.
 
-[**CampusPath-AI**](https://campuspath-ai.streamlit.app/)                  ·                   [**GitHub**](https://github.com/SAI-GODGE/CampusPath-AI)
+[**Launch Live App**](YOUR_DEPLOYED_APP_URL) · [**View Source Code**](YOUR_GITHUB_REPOSITORY_URL)
 
 </div>
 
