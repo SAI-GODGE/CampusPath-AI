@@ -59,9 +59,6 @@ The student selects a feature and enters information. CampusPath AI processes it
 | Google Gemini API | Provides AI-powered responses |
 | Streamlit Community Cloud | Hosts the live app |
 
-## Try It
-
-**[Open CampusPath AI →](YOUR_DEPLOYED_APP_URL)**
 
 ## Run It on Your Computer
 
