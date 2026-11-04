@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # CampusPath AI
@@ -7,7 +6,7 @@
 
 A simple AI assistant that helps students prepare for campus placements.
 
-[![Open Live App](https://img.shields.io/badge/OPEN%20LIVE%20APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_DEPLOYED_APP_URL)
+[![Open Live App](https://img.shields.io/badge/OPEN%20LIVE%20APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://campuspath-ai.streamlit.app/)
 [![View on GitHub](https://img.shields.io/badge/VIEW%20ON%20GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_REPOSITORY_URL)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
