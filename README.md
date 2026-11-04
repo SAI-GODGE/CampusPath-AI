@@ -7,7 +7,7 @@
 A simple AI assistant that helps students prepare for campus placements.
 
 [![Open Live App](https://img.shields.io/badge/OPEN%20LIVE%20APP-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://campuspath-ai.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/VIEW%20ON%20GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAI-GODGE/CampusPath-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAI-GODGE/CampusPath-AI)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
