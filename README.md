@@ -15,8 +15,6 @@ A simple AI assistant that helps students prepare for campus placements.
 
 </div>
 
----
-
 ## About the Project
 
 CampusPath AI brings useful placement-preparation tools into one app. Students can ask career questions, understand job notices, check eligibility, and create a study plan.
