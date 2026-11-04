@@ -120,7 +120,7 @@ CampusPath-AI/
 
 ## Deployment
 
-CampusPath AI is hosted on Streamlit Community Cloud. Open the live app using the link at the top of this page.
+CampusPath AI is hosted on Streamlit Community Cloud. Click the CampusPath AI badge above to launch the app.
 
 ## Note
 
